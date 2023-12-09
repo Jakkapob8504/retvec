@@ -19,7 +19,7 @@ To see RetVec in action, visit [our demos](https://google-research.github.io/ret
 
 ### Installation
 
-You can use `pip` to install the latest TensorFlow version of RETVec:
+You can use `pip` to install the latest TensorFlow version in in  of RETVec:
 
 ```python
 pip install retvec
